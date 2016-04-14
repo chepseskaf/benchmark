@@ -1,2 +1,2 @@
 language: java
-mvn test -f benchmark/pom.xml
+script: mvn -f benchmark/pom.xml test
